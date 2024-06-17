@@ -1,4 +1,4 @@
-package DsaQuestions;
+package DsaQuestions.Questions;
 import java.util.Arrays;
 
 //https://www.geeksforgeeks.org/program-to-reverse-an-array/
