@@ -1,8 +1,7 @@
 package DsaQuestions;
-
-import java.sql.Array;
 import java.util.Arrays;
 
+//https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1
 public class Q4 {
     public static void main(String[] args) {
         int[] arr = {0, 2, 1, 2, 0, 1, 0};
